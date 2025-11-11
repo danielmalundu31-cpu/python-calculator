@@ -11,7 +11,7 @@ memory = 0.0
 # -----------------------------
 # Arithmetic Functions
 # -----------------------------
-def average(a, b): return (a + b)/2
+def add(a, b): return (a + b)/2
 def subtract(a, b): return a - b
 def multiply(a, b): return a * b
 def divide(a, b):
